@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Gustavo de Castro Puntani, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, junto ao curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Guarulhos. Sou apaixonado por tecnologia e compartilho um pouco da minha jornada de aprendizado através do meu perfil no LinkedIn "[Gustavo de Castro](https://www.linkedin.com/in/gustavodecastropuntani/)", onde mostro a realização de alguns projetos, conquistas de certificações e muito mais.
+Me chamo Gustavo de Castro Puntani, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec, junto ao curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Guarulhos (UnG). Sou apaixonado por tecnologia e compartilho um pouco da minha jornada de aprendizado através do meu perfil no LinkedIn "[Gustavo de Castro](https://www.linkedin.com/in/gustavodecastropuntani/)", onde mostro a realização de alguns projetos, conquistas de certificações e muito mais.
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodecastropuntani/)
