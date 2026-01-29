@@ -19,7 +19,14 @@ Me chamo Gustavo de Castro Puntani, tenho 19 anos e sou natural de São Paulo. C
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
