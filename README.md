@@ -1,6 +1,6 @@
 # 👨‍💻 Gustavo de Castro
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Estudante de Engenharia de Software`**
 
 Me chamo Gustavo de Castro Puntani, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec, junto ao curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software pelo Eniac. Sou apaixonado por tecnologia e compartilho um pouco da minha jornada de aprendizado através do meu perfil no LinkedIn "[Gustavo de Castro](https://www.linkedin.com/in/gustavodecastropuntani/)", onde mostro a realização de alguns projetos, conquistas de certificações e muito mais.
 
